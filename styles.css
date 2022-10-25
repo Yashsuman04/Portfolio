@@ -4,138 +4,113 @@
 }
 .font{
     font-family: var(--bs-body-font-family);
-  }
-  .Icons{
+}
+.Icons{
     text-decoration: none; 
     color: black
-    
-  }
-  .navbar{
+}
+.navbar{
     box-sizing: border-box;
-  }
-  
-   .Introduction{
-    /* width: 45rem; 
-    height: 37rem;  */
+}
+.Introduction{
     margin-top: 5rem;
-    /* position: absolute;
-    top:7rem;
-    left:4rem; */
-    /* position: relative ;  */
-    /* left: 2rem;  */
-    /* top: 9rem; */
-  } 
-  .Project-img{
+} 
+.Project-img{
     height: 100%;
     width: 100%;
-  }
+}
 ul li{
     width: 5rem;
     padding: 0 3rem;
     margin: 0 auto;
 }
-  .hii{
+.hii{
     color: black; 
     font-family: 'Dancing Script', cursive; 
     font-size: 8rem;
-  }
-  .fs-1{
+}
+.fs-1{
     color: black;
-  }
-  .home_arrow{
+}
+.home_arrow{
     position: relative;
     left: 3rem;
-  }
-  /* .MyImage{ */
-     /* height:100vh;
-     width: 100vw; */
-    /* position:relative; */
-    /* top: -6.5rem;  */
-    /* left:4.3rem; */
-  /* } */
-  .Container{
-    display:flex; 
-    /* position: relative;
-    top: -3rem; */
-  }
-  .About{
+}
+.About{
     padding-right: 3rem;
     margin: 1rem; 
-    /* width: 60rem; */
-    /* height: 25rem;  */
     overflow:auto ; 
     box-shadow:  0 .5rem 1rem rgba(0,0,0,.15); 
     border-radius: 0.25rem;
     border: 1px solid rgba(0,0,0,.125);
-  }
-  .Projects{
+}
+.Projects{
     padding-right: 3rem;
     margin: 3rem; 
     box-shadow:  0 .5rem 1rem rgba(0,0,0,.15); 
     border-radius: 0.25rem;
     border: 1px solid rgba(0,0,0,.125);
-  }
-  div.About:hover{
+}
+div.About:hover{
       transform: scale(1.03);
       transition: transform .3s;
-    }
-    div.skills:hover{
+}
+div.skills:hover{
       transform: scale(1.03);
       transition:transform .3s;
-    }
-    div.Projects:hover{
+}
+div.Projects:hover{
         transform: scale(1.03);
         transition:transform .3s;
-    }
-    ul {
+}
+ul {
       box-sizing: border-box;
       margin: 0px;
-
-  }
-  .Skills-img{
+}
+.Skills-img{
     height: 100%;
     width: 100%;
-  }
-  .footer-section {
+}
+.footer-section {
     background: #151414;
     position: relative;
-  }
-  .footer-cta {
+}
+.footer-cta {
     border-bottom: 1px solid #373636;
-  }
-  .single-cta i {
+}
+.single-cta i {
     color: #ff5e14;
     font-size: 30px;
     float: left;
     margin-top: 8px;
-  }
-  .cta-text {
+}
+.cta-text {
     padding-left: 15px;
     display: inline-block;
-  }
-  .cta-text h4 {
+}
+.cta-text h4 {
     color: #fff;
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 2px;
-  }
-  .cta-text span {
+}
+.cta-text span {
     color: #757575;
     font-size: 15px;
-  }
-  .footer-content {
+}
+.footer-content {
     position: relative;
     z-index: 2;
-  }
-  .copyright-area{
+}
+.copyright-area{
     background: #202020;
     padding: 25px 0;
-  }
-  .copyright-text p {
+}
+.copyright-text p {
     font-size: 14px;
     color: #878787;
-  }
-  div.Contact:hover{
+}
+div.Contact:hover{
     transform: scale(1.05);
       transition:transform .3s;
-  }
+}
