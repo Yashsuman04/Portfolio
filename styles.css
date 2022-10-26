@@ -45,12 +45,13 @@ ul li{
     border: 1px solid rgba(0,0,0,.125);
 }
 .Projects{
-    padding-right: 3rem;
-    margin: 3rem; 
+    box-sizing: border-box;
+    padding-right: 1rem;
+    margin: 1rem; 
     box-shadow:  0 .5rem 1rem rgba(0,0,0,.15); 
     border-radius: 0.25rem;
     border: 1px solid rgba(0,0,0,.125);
-}
+  }
 div.About:hover{
       transform: scale(1.03);
       transition: transform .3s;
