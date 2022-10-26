@@ -15,6 +15,11 @@
 .Introduction{
     margin-top: 5rem;
 } 
+.MyImage{
+    box-sizing: border-box;
+    border-radius: 100%;
+    margin-top: 5rem;
+}
 .Project-img{
     height: 100%;
     width: 100%;
